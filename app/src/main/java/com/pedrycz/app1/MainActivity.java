@@ -101,6 +101,8 @@ public class MainActivity extends AppCompatActivity {
         );
     }
 
+
+
     private void setButtonVisible(String name, String surname, String gradeNumber, Button button) {
         boolean isFormValid;
         if (name.length() < 1 || surname.length() < 1 || gradeNumber.trim().length() < 1) {

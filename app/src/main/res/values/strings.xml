@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">lab1-GUI</string>
     <string name="action_settings">Settings</string>
+    <string name="labelName">Imię: </string>
+    <string name="hintNameInput">Wpisz imię</string>
+    <string name="labelSurname">Nazwisko: </string>
+    <string name="hintSurnameInput">Wpisz nazwisko</string>
+    <string name="labelGradeNumber">Liczba ocen: </string>
+    <string name="hintGradeNumberInput">Wpisz liczbę ocen (5 – 15)</string>
+    <string name="labelButtonOceny">oceny</string>
 </resources>

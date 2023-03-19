@@ -21,6 +21,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.pedrycz.app1.GradesActivity"
+            android:parentActivityName=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.App1.NoActionBar">
+        </activity>
     </application>
 
 </manifest>

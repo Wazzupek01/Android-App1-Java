@@ -8,4 +8,25 @@
     <string name="labelGradeNumber">Liczba ocen: </string>
     <string name="hintGradeNumberInput">Wpisz liczbę ocen (5 – 15)</string>
     <string name="labelButtonOceny">oceny</string>
+    <string name="labelButtonSrednia">oblicz średnią</string>
+    <string name="labelButtonSukces">super!</string>
+    <string name="labelButtonPorazka">Tym razem mi nie poszlo</string>
+    <string name="title_activity_grades">GradesActivity</string>
+    <string-array name="gradeTypes">
+        <item>Matematyka dla Informatyków</item>
+        <item>Inżynieria oprogramowania</item>
+        <item>Angielski</item>
+        <item>Programowanie w Java</item>
+        <item>Aplikacje mobilne Android</item>
+        <item>Aplikacje mobilne iOS</item>
+        <item>Religia</item>
+        <item>Systemy wbudowane</item>
+        <item>Matematyka Dyskretna</item>
+        <item>Integracja Systemów</item>
+        <item>Podstawy sztucznej inteligencji</item>
+        <item>Paradygmaty Programowania</item>
+        <item>Projektowanie baz danych</item>
+        <item>Szkielety programistyczne</item>
+        <item>Sieci rozproszone</item>
+    </string-array>
 </resources>
